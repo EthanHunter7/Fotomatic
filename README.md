@@ -12,7 +12,7 @@ If you have a look at the different commits the first one was the code I was giv
 ---
 ## This was the Mockup I was given to follow
 
-![Mockup](/F1C1_start/resources/images/staff/fotomatic_spec_landing_v2.png)
+![Mockup](/resources/images/staff/fotomatic_spec_landing_v2.png)
 
 ---
 You can view the demo website [here]()
