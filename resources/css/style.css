@@ -93,6 +93,9 @@ header .mobile {
   nav li:last-child{
     display: block;
   }
+  nav .button{
+    padding: 1.875rem .5rem;
+  }
 
   header .content{
     padding: 1rem 1rem;
