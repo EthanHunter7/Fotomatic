@@ -15,4 +15,4 @@ If you have a look at the different commits the first one was the code I was giv
 ![Mockup](/resources/images/staff/fotomatic_spec_landing_v2.png)
 
 ---
-You can view the demo website [here]()
+You can view the demo website [here](https://ethanhunter7.github.io/Fotomatic/)
